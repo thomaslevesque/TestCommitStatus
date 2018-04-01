@@ -4,3 +4,4 @@ wipPatterns:
 wipLabels:
 - wip
 - in-progress
+- on-hold

@@ -9,7 +9,7 @@
         },
         {
             "Text": "WIP",
-            "CaseSentitive": true
+            "CaseSensitive": true
         }
     ]
 }

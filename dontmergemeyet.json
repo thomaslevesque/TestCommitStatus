@@ -1,0 +1,15 @@
+{
+    "WipLabels": [
+        "wip",
+        "on-hold"
+    ],
+    "WipPatterns": [
+        {
+            "Text": "don't merge"
+        },
+        {
+            "Text": "WIP",
+            "CaseSentitive": true
+        }
+    ]
+}

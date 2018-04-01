@@ -1,0 +1,7 @@
+wipPatterns:
+- text: DO NOT MERGE
+- text: WIP
+wipLabels:
+- wip
+- in-progress
+- on-hold
